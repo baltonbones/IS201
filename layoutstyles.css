@@ -1,0 +1,85 @@
+
+.common {
+    background-color:rgb(6, 6, 37);
+    color: rgb(35, 202, 35);
+    position: absolute;
+}
+.header {
+    top: 7px;
+    background-color:rgb(13, 13, 80);
+    left: 4px; 
+    font-weight: bold;
+    font-size: 20px;
+    padding: 1mm;;
+z-index: 1;
+float: left;}
+    
+.leftmenu {
+    Top:340px;
+    width: 600px;
+    left:370px;
+    padding-left:40mm;
+    z-index: 1;
+    text-align: center;
+    background: none;
+    
+
+}
+.Mainbody 
+{
+    top: 110px;
+    left: 4px;
+    Bottom:70px;
+    right: 168px;
+    padding-left:5mm;
+    z-index: 1;
+}
+.myfooter {
+    Bottom:30px;
+    top:0px;
+    height: 10 px;
+    left: 5px;
+    right:5px;
+    position:relative;
+    z-index: 1;
+    text-align: center;
+    padding:2px;
+    color: white;
+}
+.image {Top: 110px;
+right: 168px;
+Padding: 5mm;
+border-bottom: none;
+border-left: none;
+z-index: 2}
+
+.page {border-top: 2px gray;
+top:5px;
+Left: 430px;
+position: relative;
+color: white;}
+.location {
+    Left: 0px;
+    Right: 0px;
+    Top: 10 px;
+    Bottom:4px;
+    }
+.interests {position: relative;
+top:50px; 
+left: 400px;
+z-index: 1;
+padding-left: 20px;
+}
+.interests title{
+    Position: relative;
+    top:40;
+    left:600;
+}
+.resume{background-color: rgb(3, 3, 61);
+    color:white;
+    font-family:sans-serif;}
+.backround {background-color:darkred;}
+.top{ color:white;
+    position:relative;
+        left:350px}
+.color{color:rgb(221, 27, 179);}
